@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
-[Demo](https://mepchat.je4ndev.com) | [Cadastro](https://mepchat.agenciamep.com/cadastro) | [WhatsApp](https://wa.me/5511914826568)
+[Demo](https://mepchat-landing.vercel.app) | [Cadastro](https://mepchat.agenciamep.com/cadastro) | [WhatsApp](https://wa.me/5511914826568)
 
 ---
 
@@ -168,7 +168,7 @@ npm start
 
 | | URL |
 |---|---|
-| Site | [mepchat.je4ndev.com](https://mepchat.je4ndev.com) |
+| Site | [mepchat-landing.vercel.app](https://mepchat-landing.vercel.app) |
 | Cadastro | [mepchat.agenciamep.com/cadastro](https://mepchat.agenciamep.com/cadastro) |
 | Painel | [mepchat.agenciamep.com](https://mepchat.agenciamep.com) |
 | WhatsApp | [11 91482-6568](https://wa.me/5511914826568) |
